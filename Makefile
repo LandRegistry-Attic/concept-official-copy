@@ -4,7 +4,7 @@ server:
 	python concept_official_copy/server.py
 
 test:
-	python -m unittest discover -s test -p '*_test.py'
+	py.test -x --tb=short test
 
 clean:
 	find . -name "*.pyc" | xargs rm || true
