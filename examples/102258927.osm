@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://api.openstreetmap.org/api/0.6/way/102258927 -->
+<osm version="0.6" generator="CGImap 0.3.3 (16737 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <way id="102258927" visible="true" version="6" changeset="13196649" timestamp="2012-09-21T14:51:17Z" user="Harry Wood" uid="1611">
+  <nd ref="1126374713"/>
+  <nd ref="1126374778"/>
+  <nd ref="1126374776"/>
+  <nd ref="1663070934"/>
+  <nd ref="1493123458"/>
+  <nd ref="1493123456"/>
+  <nd ref="1663070942"/>
+  <nd ref="1493123452"/>
+  <nd ref="1493123459"/>
+  <nd ref="1493123463"/>
+  <nd ref="1493123465"/>
+  <nd ref="1493123460"/>
+  <nd ref="1493123466"/>
+  <nd ref="1493123449"/>
+  <nd ref="1493123467"/>
+  <nd ref="1493123464"/>
+  <nd ref="1180388447"/>
+  <nd ref="1180388448"/>
+  <nd ref="1180388450"/>
+  <nd ref="1180388452"/>
+  <nd ref="1180388454"/>
+  <nd ref="1180388456"/>
+  <nd ref="1180388458"/>
+  <nd ref="1180388459"/>
+  <nd ref="1180388460"/>
+  <nd ref="1126375165"/>
+  <nd ref="1126374954"/>
+  <nd ref="1126375139"/>
+  <nd ref="1126375187"/>
+  <nd ref="1126375182"/>
+  <nd ref="1493123457"/>
+  <nd ref="1126374713"/>
+  <tag k="addr:housename" v="Aviation House"/>
+  <tag k="addr:housenumber" v="125"/>
+  <tag k="addr:postcode" v="WC2B 6SE"/>
+  <tag k="addr:street" v="Kingsway"/>
+  <tag k="building" v="yes"/>
+  <tag k="old_name" v="Holy Trinity Church"/>
+  <tag k="source" v="Bing;survey"/>
+ </way>
+</osm>
